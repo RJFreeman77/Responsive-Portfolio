@@ -241,7 +241,7 @@ body {
         width: 100%;
         max-width: 360px;
     }
-    #main-section {
-          padding-top: 50px;
+    .main-section {
+        padding-top: 40px;
     }
 }
